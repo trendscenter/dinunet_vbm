@@ -1,5 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
- torch==1.7.1+cu92
+ torch==2.2.0
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.8.2+cu92
 nibabel~=3.1.0
